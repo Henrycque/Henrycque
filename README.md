@@ -9,13 +9,13 @@
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAquelaCena&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrycque&theme=dark&show_icons=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAquelaCena&theme=dark&show_icons=true)](https://github.com/PedroAquelaCena/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrycque&theme=dark&show_icons=true)](https://github.com/Henrycque/github-readme-stats)
 
 <div align="center">
 <br><p align="centre"><b>Visitas ao perfil</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroAquelaCena}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Henrycque}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=402271&height=120&section=footer"/>
